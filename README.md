@@ -8,7 +8,7 @@ Elastic Compute Cloud (EC2) is a service that allows you to create virtual machi
 
 1. Create an EC2 instance
 2. Connect to the instance
-3. Install the node, git, and nginx
+3. Install node, git, and nginx
 4. Edit the nginx configuration file to set up a reverse proxy
 5. Clone the app repository
 6. Run the app
