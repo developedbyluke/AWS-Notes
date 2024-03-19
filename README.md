@@ -21,25 +21,25 @@ In the AWS console, go to the EC2 dashboard and click on the "Launch Instance" b
 
 Choose a suitable image and instance type.
 
-![](images/image-2.png)
+<img src="images/image-2.png" width="65%">
 
 Configure the network settings to allow HTTP traffic and give the security group a name if necessary.
 
-![](images/image-3.png)
+<img src="images/image-3.png" width="65%">
 
 Check the summary to make sure everything is correct and click "Launch instance".
 
-![](images/image-4.png)
+<img src="images/image-4.png" width="30%">
 
 When the instance has been created, click the underlined instance ID to go into the instance summary.
 
-![](images/image-5.png)
+<img src="images/image-5.png" width="50%">
 
 #### Step 2: Connect to the instance
 
 Click "Refresh" until the "Connect" button is available and then click on it.
 
-![](images/image-6.png)
+<img src="images/image-6.png" width="50%">
 
 Go to the 'SSH client' tab and copy the command to connect to the instance in a terminal.
 
