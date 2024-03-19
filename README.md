@@ -49,6 +49,7 @@ To do the final steps, you can either use the following script or run each comma
 #!/bin/bash
 
 sudo apt update -y
+
 # non-interactive mode to avoid user input
 sudo DEBIAN_FRONTEND=noninteractive apt-get upgrade -y
 
@@ -73,3 +74,5 @@ sudo npm install pm2 -g
 
 pm2 start app.js
 ```
+
+[Link to script](scripts/deploy-app.sh)
