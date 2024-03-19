@@ -43,6 +43,8 @@ Click "Refresh" until the "Connect" button is available and then click on it.
 
 Go to the 'SSH client' tab and copy the command to connect to the instance in a terminal.
 
+#### Final steps
+
 To do the final steps, you can either use the following script or run each command manually.
 
 ```bash
